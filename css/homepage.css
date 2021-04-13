@@ -1,0 +1,75 @@
+*{
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+body
+{
+    /* background-image: url(rome.jpg);
+    background-size: cover;
+    background-position: center;  */
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1; 
+    opacity: 1;  
+}
+.menu-bar
+{
+    background: rgba(10, 10, 10, 0.842);
+    text-align: center;
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+}
+.menu-bar ul li
+{
+    width: 90px;
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+ .menu-bar ul li:hover
+{
+    background: rgba(10, 10, 10, 0.842);
+    border-radius: 3px;
+}
+.container
+{
+   /* text-align: center; 
+   align-items: center; */
+   /* height: 800px;
+   width: auto; */
+}
+.list
+{
+    color: #fff;
+}
+.list ul li
+{
+    width: 500px;
+    height: 50px; 
+    text-align: end; 
+    font-size: 25px;
+    /* align-items: center; */
+}
+.fa 
+{
+    float: left;
+}
+.contact
+{
+    color: brown;  
+    font-family: 'Grandstander', cursive;
+}
+
+

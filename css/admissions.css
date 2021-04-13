@@ -1,0 +1,82 @@
+*{
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+body
+{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* css of navigation bar */
+.menu-bar
+{
+    background: rgba(10, 10, 10, 0.842);
+    text-align: center;
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+}
+.menu-bar ul li
+{
+    width: 90px;
+    margin: 15px;
+    padding: 15px;
+}   
+.menu-bar ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+ .menu-bar ul li:hover
+{
+    background: rgba(10, 10, 10, 0.842);
+    border-radius: 3px;
+}
+
+/* CSS of form */
+input, textarea{
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: none; 
+    font-size: 15px;
+    width: 20%;
+    /* margin: 11px 0px; */
+    /* padding: 7px; */
+    display: inline-block;
+}
+.radio_button
+{
+    border: 2px solid black;
+    width: 10%;
+}
+.class
+{
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: none; 
+    font-size: 15px;
+    width: 20%;
+    /* margin: 11px 0px; */
+    /* padding: 7px; */
+    display: inline-block;
+}
+.submit
+{
+    width: 1000px;
+    align-items: center; 
+    text-align: center;
+    justify-content: center;
+}
+.btn{
+    color: white;
+    background: rgb(2, 2, 2);
+    padding: 8px 12px;
+    /* font-size: 20px; */
+    border: 2px solid white;
+    border-radius: 14px;
+    cursor: pointer;
+}
+

@@ -1,0 +1,37 @@
+*{
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+body
+{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* css of navigation bar */
+.menu-bar
+{
+    background: rgba(10, 10, 10, 0.842);
+    text-align: center;
+} 
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+} 
+.menu-bar ul li
+{
+    width: 120px;
+    margin: 12px;
+    padding: 10px;
+}    
+.menu-bar ul li a
+{
+    text-decoration: none;
+    color: #fff;
+} 
+.menu-bar ul li:hover
+{
+    background: rgba(10, 10, 10, 0.842);
+    border-radius: 3px;
+} 

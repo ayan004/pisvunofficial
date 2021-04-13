@@ -1,0 +1,47 @@
+*{
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+/* css of navigation bar */
+.menu-bar
+{
+    background: rgba(10, 10, 10, 0.842);
+    text-align: center;
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+}
+.menu-bar ul li
+{
+    width: 90px;
+    margin: 15px;
+    padding: 15px;
+}   
+.menu-bar ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+ .menu-bar ul li:hover
+{
+    background: rgba(10, 10, 10, 0.842);
+    border-radius: 3px;
+}
+
+/* css of image */
+/* .bg{
+    width: 10%;
+    position: inherit ;
+    z-index: -1; 
+    opacity: 1;  
+} */
+ /* body
+{
+    background-image: url(thankyou.jpg);
+    background-size: 100px;
+    background-position: unset; 
+}  */

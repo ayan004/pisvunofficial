@@ -1,0 +1,16 @@
+1. Attributes of <hr> tag
+-- if get to be implemented later in the admission query page.
+2. 
+
+
+
+
+----------------------------------------------------------
+1.Ask joyda about how <a href> linking works. 
+What type of request that link send to the server, 'POST' or 'GET'?
+
+
+
+
+
+<button id='`+element[0]+`'>Delete Now</button>

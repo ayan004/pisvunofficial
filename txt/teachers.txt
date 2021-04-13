@@ -1,0 +1,34 @@
+How can I diaplay the data in teachers page?
+
+In 2 ways-
+i. Put php in middle of html file. Generate the html elements dynamically according to number of entries.  
+
+ii.Lengthy process using php and javaScript.
+    a. Extract the data from mysql using php
+    b. Convert the extracted data into array in php (Display the data)
+    c. Send the extracted data to client using javaScript (Print the data in console)
+    d. Insert the html elements dynamically using javaScript
+
+
+
+$r
+{
+$name => Jiko
+$designation => CS teacher
+$phone => 9874563217
+}
+
+$r
+{
+$name => Suko
+$designation => Games teacher
+$phone => 134567891
+}
+
+$teacher[0][0] = Jiko
+$teacher[0][1] = CS teacher
+$teacher[0][2] = 9874563217
+
+$teacher[1][0] = Suko
+$teacher[1][1] = Games teacher
+$teacher[1][2] = 134567891

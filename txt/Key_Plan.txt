@@ -1,0 +1,23 @@
+1. url off the school will lead you to HOMEPAGE of the school, which will contain- 
+	a. Picture of the school on background
+	b. Some menus- HomePage, AdmissionPage(Admission Page will contain the rgistration form), TechersSection, 
+			StudentsSection
+
+2. Principal can log inside the website from a particular portion of the website- to post something on the 
+notice board of the website, that is on teachers section or students section
+
+
+
+
+Designing the admission Page
+-Heading: Admission Pre-Requisites
+-Some points about admission pre-Requisites
+-Make a query, we will get back to you soon
+-And we will make the form
+
+
+
+What to do right now:
+1. Display the teachers using javaScript in the website
+2. Display with the same code to the principal- only one option more to delete
+
